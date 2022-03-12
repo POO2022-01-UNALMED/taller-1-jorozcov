@@ -2,3 +2,8 @@ Julián Orozco Vanegas
 19 años de edad
 Aspiraciones con la materia: Aprender bien los conceptos de la programación orientada a objetos en java y python,
 y la utilización de git y github para la creación de proyectos 
+A la carpeta archivos se le creó un nuevo archivo txt desde la web y no desde desktop github 
+Ahora si se puede crear un commit porque al hacerlo directamente en el repositorio web github si lo toma como un cambio
+
+Es importante tener cuidado con modificar dos archivos al mismo tiempo porque pueden salir errores que dañen el trabajo cuando se está codificando un programa, crear conflictos 
+y github no sabe con qué cambios quedarse 
