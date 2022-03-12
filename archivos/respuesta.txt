@@ -1,0 +1,1 @@
+No se pudo hacer un commit en el punto 9 ya que git no detecta la creación de una carpeta vacia como un cambio
