@@ -1,0 +1,2 @@
+A la carpeta archivos se le creó un nuevo archivo txt desde la web y no desde desktop github 
+Ahora si se puede crear un commit porque al hacerlo directamente en el repositorio web github si lo toma como un cambio
